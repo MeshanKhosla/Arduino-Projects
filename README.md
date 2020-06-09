@@ -21,3 +21,8 @@ I used a small potentiometer to control a servo ranging from 0-180 degrees.
 
 ---
 
+## [Ultrasonic Sensor Alarm](https://github.com/MeshanKhosla/Arduino-Projects/tree/master/Projects/Ultrasonic_alarm)
+Ultrasonic sensor with a 50cm threshold. Green light = nothing is in the way. Red light + buzzer = there is something in the way.
+
+---
+
