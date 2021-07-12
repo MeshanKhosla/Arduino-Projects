@@ -3,7 +3,6 @@ These are the Arduino projects that I've created, including schematics for each 
 
 ## [Secret Code](https://github.com/MeshanKhosla/Arduino-Projects/tree/master/Projects/SecretCode)
 There is a code that, when entered, lights up an LED and moves a motor
-#### [Demo](https://www.youtube.com/watch?v=Q9WHU2EsORA) --- [Explanation](https://www.youtube.com/watch?v=J1UJdXbw3Hc)
 
 ---
 
